@@ -1,0 +1,28 @@
+{
+  "name": "H2O",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000H\u00002\u0000O\u0000\r\u0000 \u0000",
+  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "geolib": "^2.0.24",
+    "mongodb": "^3.1.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsps955201/H2O.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hsps955201/H2O/issues"
+  },
+  "homepage": "https://github.com/hsps955201/H2O#readme"
+}
